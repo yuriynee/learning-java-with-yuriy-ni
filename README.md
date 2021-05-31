@@ -9,5 +9,6 @@ https://yuriyni.com/java-string/
 
 Java substring method examples
 https://yuriyni.com/java/java-substring/
+
 Java charAt method examples
 https://yuriyni.com/java/java-charat/
